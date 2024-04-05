@@ -1,3 +1,7 @@
+NAME: MAHALAKSHMI K
+
+REG NO:212222240057
+
 #  Mean and variance of a discrete  distribution
 
 
